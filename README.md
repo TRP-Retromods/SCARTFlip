@@ -1,8 +1,9 @@
 SCARTFLip for Retrotink 5x
 ===========
 
+![Picture of SCARTFlip](https://github.com/TRP-Retromods/SCARTFlip/blob/main/Pictures/IMG_0016.jpg?raw=true)
 
-https://github.com/TRP-Retromods/SCARTFlip/blob/main/Pictures/IMG_0016.jpg
+
 
 Change the orientation of the SCART input of the Retrotink5X.
 
